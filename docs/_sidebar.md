@@ -1,6 +1,9 @@
 - 前言
     - [简介](zh-cn/README.md)
-    
+
+- 数据库
+    - [掌握技能](zh-cn/database/database.md)
+
 - C++
     - [基础](zh-cn/C++/base.md)
     - [函数](zh-cn/C++/func.md)
