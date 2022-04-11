@@ -2,7 +2,7 @@
 
 # **docsify-demo**
 
-- 本文档是作者折腾 ```docsify```以来的学习历程<br>旨在为大家提供一个较完整的docsify框架结构<br>如果本文能为您得到帮助，请给予支持！
+- 本网站是作者为了面试官更好地了解我而创建的<br>旨在提供一个详细的经历描述本人的经验以及技能<br>如果本文能帮到您，欢迎支持！
 
 [![stars](https://badgen.net/github/stars/sfumecjf/myresume?color=4ab8a1)](https://github.com/sfumecjf/myresume)
 [![forks](https://badgen.net/github/forks/sfumecjf/myresume?color=4ab8a1)](https://github.com/sfumecjf/myresume)
