@@ -1,6 +1,6 @@
 <img width="160px" style="border-radius: 50%" bor src="style/comic.jpg">
 
-# **docsify-demo**
+# **计算机技能总结主页**
 
 - 本网站是作者为了面试官更好地了解我而创建的<br>旨在提供一个详细的经历描述本人的经验以及技能<br>如果本文能帮到您，欢迎支持！
 
